@@ -4,7 +4,7 @@
 
 ## Employee Record Tracker
 
-### Add: Employee with Name and Position
+#### Add: Employee with Name and Position
 #### Delete:
 - Delete by Name
 - Delete by Position
